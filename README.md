@@ -196,8 +196,8 @@ A reusable, responsive framework ensures:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AI-bootcamp/capstone-project-team-2-1.git
-   cd capstone-project-team-2-1
+   git clone https://github.com/ManaSaleh/MsgAI.git
+   cd MsgAI
    ```
 
 2. Navigate to the project directory and install dependencies:
