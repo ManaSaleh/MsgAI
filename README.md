@@ -15,7 +15,7 @@ Managing SMS messages effectively can be daunting due to their unstructured natu
 ---
 #### **Solution**
 <div align="center">
-  <img src="https://github.com/AI-bootcamp/capstone-project-team-2-1/blob/main/Images/msgai.png" alt="MsgAI Logo" width="400" height="auto" />
+  <img src="Images/msgai.png" alt="MsgAI Logo" width="400" height="auto" />
 </div>
 
 💡 **MsgAI** revolutionizes SMS management with a powerful AI-driven platform that intelligently categorizes messages, extracts actionable data, and integrates financial analysis and scheduling tools. By leveraging cutting-edge machine learning and natural language processing, MsgAI ensures seamless organization and insight generation.
@@ -151,7 +151,7 @@ MsgAI categorizes incoming messages into the following groups:
 
 Showcases MsgAI’s features through a modern, intuitive interface.
 
-![Homepage](https://github.com/AI-bootcamp/capstone-project-team-2-1/blob/main/Images/home.png)
+![Homepage](Images/home.png)
 
 - Highlights classification insights.
 - Displays financial trends and analysis.
@@ -168,7 +168,7 @@ Organizes messages into spam and important categories.
 
 Provides detailed financial insights without requiring ML models.
 
-![Transaction Analysis](https://github.com/AI-bootcamp/capstone-project-team-2-1/blob/main/Images/transcation.png)
+![Transaction Analysis](Images/transcation.png)
 
 - Automatically categorizes transactions into income and expenditure.
 - Visualizes financial trends and patterns.
@@ -177,7 +177,7 @@ Provides detailed financial insights without requiring ML models.
 
 Simplifies event organization by extracting dates from messages.
 
-![Date and Schedule Management](https://github.com/AI-bootcamp/capstone-project-team-2-1/blob/main/Images/dates.png)
+![Date and Schedule Management](Images/dates.png)
 
 - Enables reminder creation for key events.
 - Tracks historical and upcoming schedules effectively.
